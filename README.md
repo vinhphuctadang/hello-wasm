@@ -17,8 +17,9 @@ This will install cargo, rustc .etc
 
 2/ Install wasm target
 
-
+```
 rustup target add wasm32-unknown-unknown
+```
 
 3/ Clone the project
 
