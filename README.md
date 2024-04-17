@@ -35,3 +35,12 @@ cargo wasm
 ```
 
 The .wasm built file is in `target/wasm32-unknown-unknown/release/hello_wasm.wasm`
+
+### Generate schema
+
+```
+cd path/to/hello-wasm
+cargo run
+```
+
+Schema will be generated in `./schema`
