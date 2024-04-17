@@ -9,10 +9,10 @@
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
-See instructions here if you're on window
+See instructions here if you're on Windows
 https://www.rust-lang.org/tools/install
 
-This will install cargo, rustc etc
+This will install cargo, rustc .etc
 
 
 2/ Install wasm target
