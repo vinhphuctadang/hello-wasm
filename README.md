@@ -30,6 +30,7 @@ git clone https://github.com/vinhphuctadang/hello-wasm.git
 ### Build the contract
 
 ```
+cd path/to/hello-wasm
 cargo wasm
 ```
 
